@@ -121,7 +121,7 @@
    </executions>
    <configuration>
       <serverId>snapshots</serverId>
-      <nexusUrl>http://3.137.62.5:8081/nexus/content/repositories/snapshots</nexusUrl>
+      <nexusUrl>http://3.135.220.100:8081/nexus/content/repositories/snapshots</nexusUrl>
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
